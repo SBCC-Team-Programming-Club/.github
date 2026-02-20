@@ -27,7 +27,7 @@ actually get you hired and make you a better teammate:
 Whether you're prepping for ICPC or just want to grow as a developer, there's a place for you here.
 
 - 🔗 [Check out our projects](#)
-- 💬 [Join our Discord](#)
+- 💬 [Join our Discord](https://discord.gg/DFHJMMxugf)
 - 📋 [Onboarding for new members](#)
 
 ## 👥 Who We Are
