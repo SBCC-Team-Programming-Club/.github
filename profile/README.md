@@ -28,7 +28,7 @@ Whether you're prepping for ICPC or just want to grow as a developer, there's a 
 
 - 🔗 [Check out our projects](#)
 - 💬 [Join our Discord](https://discord.gg/DFHJMMxugf)
-- 📋 [Onboarding for new members](#)
+- 📋 [Onboarding for new members](#https://github.com/SBCC-Team-Programming-Club/join-us/issues/new/choose)
 
 ## 👥 Who We Are
 
